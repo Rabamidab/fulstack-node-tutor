@@ -1,0 +1,7 @@
+{
+  "name": "fulstack-node-tutor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Rabamidab/fulstack-node-tutor.git",
+  "license": "MIT"
+}
