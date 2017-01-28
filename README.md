@@ -1,0 +1,1 @@
+fullstack_node_for_serv
