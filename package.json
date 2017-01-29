@@ -10,7 +10,8 @@
 	"babel": {
 		"presets": [
 			"latest"
-		],
+		]
+	},
 	"devDependencies": {
 		"babel-preset-latest": "^6.22.0",
 		"del": "^2.2.2",
