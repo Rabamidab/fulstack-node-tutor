@@ -1,23 +1,20 @@
 {
-  "name": "fulstack-node-tutor",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/Rabamidab/fulstack-node-tutor.git",
-  "license": "MIT",
-  "scripts": {
-    "start": "gulp"
-  },
-<<<<<<< HEAD
-  "babel": {
-    "presets": [
-      "latest"
-    ]
-=======
-  "devDependencies": {
-    "babel-preset-latest": "^6.22.0",
-    "del": "^2.2.2",
-    "gulp": "^3.9.1",
-    "gulp-babel": "^6.1.2"
->>>>>>> master
-  }
+	"name": "fulstack-node-tutor",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/Rabamidab/fulstack-node-tutor.git",
+	"license": "MIT",
+	"scripts": {
+		"start": "gulp"
+	},
+	"babel": {
+		"presets": [
+			"latest"
+		]
+	"devDependencies": {
+		"babel-preset-latest": "^6.22.0",
+		"del": "^2.2.2",
+		"gulp": "^3.9.1",
+		"gulp-babel": "^6.1.2"
+	}
 }
