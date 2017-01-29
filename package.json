@@ -5,7 +5,7 @@
   "repository": "https://github.com/Rabamidab/fulstack-node-tutor.git",
   "license": "MIT",
   "scripts": {
-    "start": "node ."
+    "start": "gulp"
   },
 <<<<<<< HEAD
   "babel": {
