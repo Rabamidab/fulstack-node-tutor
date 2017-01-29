@@ -1,3 +1,5 @@
+/* eslint-disable import/no-extraneous-dependencies */
+
 import gulp from 'gulp';
 import babel from 'gulp-babel';
 import del from 'del';
